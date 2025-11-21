@@ -1,6 +1,6 @@
-package main
+package problems
 
-func main() {
+func Hello() {
 	println("Hello, world!")
 	println("Midhun Binoy")
 }

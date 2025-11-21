@@ -1,0 +1,10 @@
+package main
+
+import (
+	"golang/problems"
+)
+
+func main() {
+	// problems.Hello()
+	// problems.Sum_of_N()
+}
