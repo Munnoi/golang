@@ -7,5 +7,6 @@ import (
 func main() {
 	// problems.Hello()
 	// problems.Sum_of_N()
-	problems.ReverseString()
+	// problems.ReverseString()
+	problems.Palindrome()
 }
