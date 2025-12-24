@@ -9,5 +9,6 @@ func main() {
 	// problems.Sum_of_N()
 	// problems.ReverseString()
 	// problems.Palindrome()
-	problems.Max_and_min()
+	// problems.Max_and_min()
+	problems.Avg()
 }
