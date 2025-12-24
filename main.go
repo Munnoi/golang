@@ -10,5 +10,6 @@ func main() {
 	// problems.ReverseString()
 	// problems.Palindrome()
 	// problems.Max_and_min()
-	problems.Avg()
+	// problems.Avg()
+	problems.RemoveDuplicates()
 }
