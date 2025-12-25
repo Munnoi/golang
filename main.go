@@ -11,5 +11,6 @@ func main() {
 	// problems.Palindrome()
 	// problems.Max_and_min()
 	// problems.Avg()
-	problems.RemoveDuplicates()
+	// problems.RemoveDuplicates()
+	problems.Intersection()
 }
