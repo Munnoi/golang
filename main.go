@@ -13,5 +13,6 @@ func main() {
 	// problems.Avg()
 	// problems.RemoveDuplicates()
 	// problems.Intersection()
-	problems.Max_value()
+	// problems.Max_value()
+	problems.Struct_example()
 }
