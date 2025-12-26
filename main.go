@@ -12,5 +12,6 @@ func main() {
 	// problems.Max_and_min()
 	// problems.Avg()
 	// problems.RemoveDuplicates()
-	problems.Intersection()
+	// problems.Intersection()
+	problems.Max_value()
 }
